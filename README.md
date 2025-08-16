@@ -11,4 +11,8 @@
 }
 ```
 
-- it takes the 2 letter country code and a job descriptions
+- it takes the 2 letter country code and a " " separated job keywords
+
+# demo
+
+![demo](./demo.jpg)
