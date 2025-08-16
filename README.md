@@ -11,7 +11,7 @@
 }
 ```
 
-- it takes the 2 letter country code and a " " separated job keywords
+- it takes the 2 letter country code and a " " separated list of job keywords
 
 # demo
 
